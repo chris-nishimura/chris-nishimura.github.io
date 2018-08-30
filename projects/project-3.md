@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/.png
+image: images/sax.jpg
 title: Section Leader
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
