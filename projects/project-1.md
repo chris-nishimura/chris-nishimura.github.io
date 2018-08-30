@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/imu.jpg
 title: Building an Imu
-permalink: projects/micromouse
+permalink: projects/imu
 # All dates must be YYYY-MM-DD format!
 date: 2013-04-01
 labels:
