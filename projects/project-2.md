@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blood-drive.png
+image: images/blood-drive.jpg
 title: Blood Drive
 permalink: projects/blooddrive
 # All dates must be YYYY-MM-DD format!
