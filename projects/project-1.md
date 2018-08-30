@@ -8,7 +8,7 @@ permalink: projects/micromouse
 date: 2013-04-01
 labels:
   - Hawaiian culture
-  - 
+  - Building
 summary: I built an Imu for my Hawaiian culture project in high school.
 ---
 
