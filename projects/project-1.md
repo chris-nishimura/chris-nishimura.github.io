@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/imu.jpg
 title: Building an Imu
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
