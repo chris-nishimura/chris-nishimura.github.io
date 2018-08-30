@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/.png
-title: 
+title: Section Leader
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2014-08-01
 labels:
-  - Lisp
-  - GitHub
-summary: .
+  - Marching Band
+  - Section Leader
+  - Saxophone
+summary: I was a marching band section leader my senior year of high school.
 ---
-
-
 
