@@ -2,10 +2,11 @@
 layout: essay
 type: essay
 title: Javascript Reflection
-date: 2015-08-26
+date: 2015-08-30
 labels:
   - Software Engineering
-  - Learning
+  - Javascript
+  -WOD
 ---
 
 So far throughout my college career, I have learned several different programming languages. I have coded in Java, C, and now Javascript. There are many advantages and disavantages to each language. The first time I ever coded I used Java in my AP computer Science class. It was a good introduction to coding and since you have so specify varible types it helps you to learn what the different variable types are. The next language I learned was C in my ICS 212 class. C was a bit harder to grasp compared to java but had enough similarties to make the transition smooth. 
