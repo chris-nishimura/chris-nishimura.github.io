@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: No such thing as a stupid question?
-date: 2015-09-06
+date: 2018-09-06
 labels:
   - Smart Questions
   - StackOverflow
