@@ -7,7 +7,7 @@ labels:
   - Coding Sandards
   - Javascript
   - ESlint
-  -Intellij idea
+  - Intellij idea
 ---
 
 Coding standards are a very interesting part of ICS. The standards themselves are'nt strictly required for your program to function as it is supposed to. Instead they are mostly around to make your code look nicer and to make it easier to understand. I remember learning in my ICS 212 class that when coding was still relatively new and computers were not that powerful it was more important to create code that was as concise as you could possibly make it. Fewer lines of code meant less procesing power required to run the code. But now computers are amany times more powerful, so it is a lot more useful to create code that is easy to read.
