@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering
-date: 2018-08-26
+title: UI and you
+date: 2018-10-04
 labels:
   - Frameworks
   - UI
