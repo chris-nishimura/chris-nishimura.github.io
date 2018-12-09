@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/LandingLogo.png
+image: images/LandingLogo.PNG
 title: Clubr
 permalink: projects/clubr
 # All dates must be YYYY-MM-DD format!
