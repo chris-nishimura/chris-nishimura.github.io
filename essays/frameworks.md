@@ -18,4 +18,4 @@ The biggest disadvantage to using Semantic UI is learning all the syntax that co
 There are many advantages to using Semantic UI. One of the advantages is that it makes it very simple to change aspects of a webpage. Once you start to get the hang of the syntax and classes it makes creating pleasing webpages very easy. Another advantage is that the classes are usually straight forward. If you want something to the right chances are you can just add right to the class.
 
 ### Conclusion
-Overall Semantic UI is a very useful too for creating UI. It can help you to make nice looking web pages with very straight forward classes and functionality. I will continue to further my competance with Semantc UI and making UI in gernal.
+Overall Semantic UI is a very useful too for creating UI. It can help you to make nice looking web pages with very straight forward classes and functionality. I will continue to further my competence with Semantc UI and making UI in general.
