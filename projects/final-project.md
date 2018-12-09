@@ -11,7 +11,10 @@ labels:
   - Web Design
   - Group Project
   - UH Clubs
-summary: I Helped to design a webpage for a group final project in ICS 314.
+  - Javascript
+  - Meteor
+  - React
+summary: I Helped to design a web app for a group final project in ICS 314.
 ---
 
-images/landing1.png
+For my final project in ICS 314 we had to develop a web app in a group. You can view our app <a href="http://uhclubr.meteorapp.com/#/">here.</a>
