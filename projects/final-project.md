@@ -14,3 +14,4 @@ labels:
 summary: I Helped to design a webpage for a group final project in ICS 314.
 ---
 
+images/landing1.png
