@@ -51,7 +51,8 @@
       "keywords": [
         "C",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Python"
       ]
     },
     {
@@ -60,6 +61,7 @@
       "keywords": [
         "MacOS",
         "Windows",
+        "Linux",
         "Git/GitHub",
         "Unix"
       ]
