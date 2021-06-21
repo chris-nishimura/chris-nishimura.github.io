@@ -68,10 +68,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "Present",
+      "endDate": "2021-05-01",
       "gpa": "",
       "courses": [
       ]
@@ -83,7 +83,7 @@
       "position": "Stockroom Employee",
       "website": "",
       "startDate": "2016-10-01",
-      "endDate": "Present",
+      "endDate": "2021-05-01",
       "summary": "Student helper in Chemistry Stockroom",
       "highlights": [
         "Maintain the stockroom (eg. stock shelves/ clean)",
@@ -115,7 +115,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "Glorina Cueva",
       "reference": ""
     }
   ]
