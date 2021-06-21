@@ -64,6 +64,7 @@
         "MacOS",
         "Windows",
         "Linux",
+        "Android",
         "Git/GitHub",
         "Unix"
       ]
